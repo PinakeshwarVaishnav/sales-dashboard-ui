@@ -46,7 +46,7 @@ export default function TodaySales() {
     <Card>
       <CardHeader className="flex flex-row items-center justify-between pb-2">
         <div>
-          <CardTitle className="text-xl font-bold">Today's Sales</CardTitle>
+          <CardTitle className="text-xl font-bold">Today&apos;s Sales</CardTitle>
           <p className="text-sm text-gray-500">Sales Summary</p>
         </div>
         <Button variant="outline" size="sm">
